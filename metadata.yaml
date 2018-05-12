@@ -1,0 +1,38 @@
+_repo: Tri-Noveloj-de-Usona-Verkisto-Bret-Harte_20931
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Grobe, Edwin
+    birthdate: 1927
+    gutenberg_agent_id: '7369'
+    url: http://www.gutenberg.org/2009/agents/7369
+    wikipedia: http://eo.wikipedia.org/wiki/Edwin_GROBE
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Harte, Bret
+    alias: Harte, Francis Bret
+    birthdate: 1836
+    deathdate: 1902
+    gutenberg_agent_id: '593'
+    url: http://www.gutenberg.org/2009/agents/593
+    wikipedia: http://en.wikipedia.org/wiki/Bret_Harte
+description: ''
+gutenberg_bookshelf: Esperanto
+gutenberg_issued: '2007-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20931'
+language: eo
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Western stories'
+- !lcc 'PS'
+tableOfContents: La Bonŝanco de Rora-Kampadejo -- La Forpelitoj de Poker-Ebenaĵo --
+  La Partnero de Tenesio
+title: Tri Noveloj de Usona Verkisto Bret Harte
+url: http://www.gutenberg.org/ebooks/20931
